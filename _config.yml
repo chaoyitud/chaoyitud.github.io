@@ -36,9 +36,13 @@ content:
         caption: 2017 - 2021
         sub_title: BSc Measuring and Control Technology and Instrumentation
       - layout: left
-        title: Beihang University
-        caption: 2017 - 2021
-        sub_title: BSc Measuring and Control Technology and Instrumentation
+        title: TU Delft
+        caption: 2021 - 2023
+        sub_title: MSc Computer Engineering
+      - layout: left
+        title: TU Delft
+        caption: 2023 -
+        sub_title: PhD Student Computer Science
 
   - title: A Little More About Me
     layout: text
