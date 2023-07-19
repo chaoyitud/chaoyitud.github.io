@@ -35,8 +35,10 @@ content:
         title: Beihang University
         caption: 2017 - 2021
         sub_title: BSc Measuring and Control Technology and Instrumentation
-        description: | # this will include new lines to allow paragraphs
-
+      - layout: left
+        title: Beihang University
+        caption: 2017 - 2021
+        sub_title: BSc Measuring and Control Technology and Instrumentation
 
   - title: A Little More About Me
     layout: text
