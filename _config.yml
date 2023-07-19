@@ -23,7 +23,7 @@ googlescholar_username: F2TIc-wAAAAJ
 # flickr_username: jekyll
 
 
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Chaoyi Zhu, a PhD student in TU Delft. My current research interests include: attacks and defenses in federated learning and adversarial machine learning.
 
