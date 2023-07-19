@@ -28,6 +28,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Chaoyi Zhu, a PhD student in TU Delft. My current research interests include: attacks and defenses in federated learning and adversarial machine learning.
 
 content:
+  - title: Publications
+    layout: text
+    content: |
+      *Zhu, C.*, Chen, Z., Zhao, R., Wang, J., & Yan, R. (2021). Decoupled feature-temporal CNN: Explaining deep learning-based machine health monitoring. IEEE Transactions on Instrumentation and Measurement, 70, 1-13.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -49,9 +53,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       - My favorite anime is Fullmetal Alchemist (鋼の錬金術師).
       - My favorite game is Yu-Gi-Oh!(遊☆戯☆王) Master Duel. 
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
