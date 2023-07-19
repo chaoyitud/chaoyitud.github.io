@@ -31,7 +31,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      *Zhu, C.*, Chen, Z., Zhao, R., Wang, J., & Yan, R. (2021). Decoupled feature-temporal CNN: Explaining deep learning-based machine health monitoring. IEEE Transactions on Instrumentation and Measurement, 70, 1-13.
+      **Zhu, C.**, Chen, Z., Zhao, R., Wang, J., & Yan, R. (2021). Decoupled feature-temporal CNN: Explaining deep learning-based machine health monitoring. IEEE Transactions on Instrumentation and Measurement, 70, 1-13.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
