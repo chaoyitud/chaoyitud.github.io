@@ -28,6 +28,14 @@ about_content: >
   Hi, I'm Chaoyi Zhu, a PhD student at TU Delft. My current research interests include attacks and defenses in federated learning and watermarks in large language models.
 
 content:
+  - title: Publications
+    layout: text
+    content: |
+      - **C. Zhu**, J. Galjaard, et al. "Duwak: Dual Watermarks in Large Language Models", (ACL ARR 2024 Under Review).
+      - **C. Zhu**, J. Tang, et al. "Quantifying and Mitigating Privacy Risks for Tabular Generative Models", (PETS 2024 Under Review).
+      - **C. Zhu**, S. Roos, and L. Y. Chen. "LeadFL: Client Self-defense Against Model Poisoning in Federated Learning." In International Conference on Machine Learning, pp. 43158-43180. PMLR, 2023.
+      - **C. Zhu**, Z. Chen, et al." Decoupled Feature-Temporal CNN: Explaining Deep Learning-Based Machine Health Monitoring." IEEE Transactions on Instrumentation and Measurement 70 (2021): 1-13.
+      
   - title: Education
     layout: list
     content:
@@ -44,13 +52,7 @@ content:
         caption: "2017 - 2021"
         description: "BSc Measurement and Control Technology and Instrumentation (Overall GPA: 90/100)"
 
-  - title: Publications
-    layout: text
-    content: |
-      - **C. Zhu**, J. Galjaard, et al. "Duwak: Dual Watermarks in Large Language Models", (ACL ARR 2024 Under Review).
-      - **C. Zhu**, J. Tang, et al. "Quantifying and Mitigating Privacy Risks for Tabular Generative Models", (PETS 2024 Under Review).
-      - **C. Zhu**, S. Roos, and L. Y. Chen. "LeadFL: Client Self-defense Against Model Poisoning in Federated Learning." In International Conference on Machine Learning, pp. 43158-43180. PMLR, 2023.
-      - **C. Zhu**, Z. Chen, et al." Decoupled Feature-Temporal CNN: Explaining Deep Learning-Based Machine Health Monitoring." IEEE Transactions on Instrumentation and Measurement 70 (2021): 1-13.
+  
 
   - title: Industry Cooperation
     layout: list
@@ -72,13 +74,13 @@ content:
     layout: list
     content:
       - layout: left
-        title: "Institute for Infocomm Research, A*STAR, Singapore (Remote)"
+        title: "A*STAR"
         caption: "07/2020 – 09/2020"
-        description: "Research Assistant"
+        description: "Research Assistant, Institute for Infocomm Research, A*STAR, Singapore (Remote)"
       - layout: left
-        title: "Distributed Systems, Dept. of Computer Science, TU Delft, Netherlands"
+        title: "TU Delft"
         caption: "07/2022 – 10/2022"
-        description: "Research Assistant"
+        description: "Research Assistant, Distributed Systems, Dept. of Computer Science, TU Delft, Netherlands"
 
   - title: A Little More About Me
     layout: text
