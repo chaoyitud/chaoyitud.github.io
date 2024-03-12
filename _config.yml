@@ -74,7 +74,7 @@ content:
 
   - title: Awards and Honors
     layout: text
-    content: >
+    content: |
       - Cum Laude, TU Delft, 06/2023
       - Best Student Presentation Award, IEEE ICSMD 2020, 10/2020
       - Runner-up, Data Analysis Competition, Beihang University, 07/2019
@@ -83,7 +83,7 @@ content:
 
   - title: Publications
     layout: text
-    content: >
+    content: |
       - **C. Zhu**, J. Galjaard, et al. "Duwak: Dual Watermarks in Large Language Models", (ACL ARR 2024 Under Review).
       - **C. Zhu**, J. Tang, et al. "Quantifying and Mitigating Privacy Risks for Tabular Generative Models", (PETS 2024 Under Review).
       - **C. Zhu**, S. Roos, and L. Y. Chen. "LeadFL: Client Self-defense Against Model Poisoning in Federated Learning." In International Conference on Machine Learning, pp. 43158-43180. PMLR, 2023.
@@ -91,7 +91,7 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: >
+    content: |
       - My favorite anime is Fullmetal Alchemist (鋼の錬金術師).
       - My favorite game is Yu-Gi-Oh! (遊☆戯☆王) Master Duel.
 
